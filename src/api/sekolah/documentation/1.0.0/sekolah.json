@@ -20,7 +20,7 @@
                           "attributes": {
                             "type": "object",
                             "properties": {
-                              "nama_sekolah": {
+                              "namaSekolah": {
                                 "type": "string"
                               },
                               "kabupaten": {
@@ -35,7 +35,7 @@
                                       "attributes": {
                                         "type": "object",
                                         "properties": {
-                                          "nama_kabupaten": {
+                                          "namaKabupaten": {
                                             "type": "string"
                                           },
                                           "provinsi": {
@@ -55,7 +55,7 @@
                                                     "attributes": {
                                                       "type": "object",
                                                       "properties": {
-                                                        "nama_sekolah": {
+                                                        "namaSekolah": {
                                                           "type": "string"
                                                         },
                                                         "kabupaten": {
@@ -748,7 +748,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "nama_sekolah": {
+                            "namaSekolah": {
                               "type": "string"
                             },
                             "kabupaten": {
@@ -763,7 +763,7 @@
                                     "attributes": {
                                       "type": "object",
                                       "properties": {
-                                        "nama_kabupaten": {
+                                        "namaKabupaten": {
                                           "type": "string"
                                         },
                                         "provinsi": {
@@ -783,7 +783,7 @@
                                                   "attributes": {
                                                     "type": "object",
                                                     "properties": {
-                                                      "nama_sekolah": {
+                                                      "namaSekolah": {
                                                         "type": "string"
                                                       },
                                                       "kabupaten": {
@@ -1365,7 +1365,7 @@
                   "data": {
                     "type": "object",
                     "properties": {
-                      "nama_sekolah": {
+                      "namaSekolah": {
                         "type": "string"
                       },
                       "kabupaten": {
@@ -1436,7 +1436,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "nama_sekolah": {
+                            "namaSekolah": {
                               "type": "string"
                             },
                             "kabupaten": {
@@ -1451,7 +1451,7 @@
                                     "attributes": {
                                       "type": "object",
                                       "properties": {
-                                        "nama_kabupaten": {
+                                        "namaKabupaten": {
                                           "type": "string"
                                         },
                                         "provinsi": {
@@ -1471,7 +1471,7 @@
                                                   "attributes": {
                                                     "type": "object",
                                                     "properties": {
-                                                      "nama_sekolah": {
+                                                      "namaSekolah": {
                                                         "type": "string"
                                                       },
                                                       "kabupaten": {
@@ -2073,7 +2073,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "nama_sekolah": {
+                            "namaSekolah": {
                               "type": "string"
                             },
                             "kabupaten": {
@@ -2088,7 +2088,7 @@
                                     "attributes": {
                                       "type": "object",
                                       "properties": {
-                                        "nama_kabupaten": {
+                                        "namaKabupaten": {
                                           "type": "string"
                                         },
                                         "provinsi": {
@@ -2108,7 +2108,7 @@
                                                   "attributes": {
                                                     "type": "object",
                                                     "properties": {
-                                                      "nama_sekolah": {
+                                                      "namaSekolah": {
                                                         "type": "string"
                                                       },
                                                       "kabupaten": {
@@ -2701,7 +2701,7 @@
                   "data": {
                     "type": "object",
                     "properties": {
-                      "nama_sekolah": {
+                      "namaSekolah": {
                         "type": "string"
                       },
                       "kabupaten": {
