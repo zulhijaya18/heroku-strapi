@@ -12,7 +12,7 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "nama_aplikasi": {
+    "namaAplikasi": {
       "type": "string"
     }
   }

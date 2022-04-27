@@ -1,8 +1,8 @@
 {
-  "name": "heroku-strapi",
+  "name": "simarkas-strapi",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "simarkas-strapi",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -18,7 +18,7 @@
     "mysql": "^2.18.1"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Ortentiv Studio"
   },
   "strapi": {
     "uuid": "dbbbfe5b-ef7a-4e1c-9274-4dedf5e7005c"

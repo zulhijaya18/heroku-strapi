@@ -12,7 +12,7 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "nama_kabupaten": {
+    "namaKabupaten": {
       "type": "string"
     },
     "provinsi": {
