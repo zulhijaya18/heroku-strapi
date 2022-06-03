@@ -1,0 +1,70 @@
+{
+  "kind": "collectionType",
+  "collectionName": "penyedias",
+  "info": {
+    "singularName": "penyedia",
+    "pluralName": "penyedias",
+    "displayName": "Penyedia",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "skpd": {
+      "type": "string"
+    },
+    "namaPaket": {
+      "type": "string"
+    },
+    "tahunAnggaran": {
+      "type": "string"
+    },
+    "lokasiPekerjaan": {
+      "type": "json"
+    },
+    "volumePekerjaan": {
+      "type": "string"
+    },
+    "uraianPekerjaan": {
+      "type": "string"
+    },
+    "spesifikasiPekerjaan": {
+      "type": "string"
+    },
+    "praDipaDpa": {
+      "type": "boolean"
+    },
+    "noIzinTahunJamak": {
+      "type": "string"
+    },
+    "sumberDana": {
+      "type": "json"
+    },
+    "jenisPengadaan": {
+      "type": "string"
+    },
+    "produkDalamNegeri": {
+      "type": "boolean"
+    },
+    "usahaKecilKoperasi": {
+      "type": "boolean"
+    },
+    "aspekEkonomi": {
+      "type": "boolean"
+    },
+    "aspekSosial": {
+      "type": "boolean"
+    },
+    "aspekLingkungan": {
+      "type": "boolean"
+    },
+    "pengadaanDikecualikan": {
+      "type": "boolean"
+    },
+    "rencanaMetodePemilihan": {
+      "type": "string"
+    }
+  }
+}
