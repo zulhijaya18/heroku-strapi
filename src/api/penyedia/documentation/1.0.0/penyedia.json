@@ -46,9 +46,6 @@
                                 "type": "string"
                               },
                               "sumberDana": {},
-                              "jenisPengadaan": {
-                                "type": "string"
-                              },
                               "produkDalamNegeri": {
                                 "type": "boolean"
                               },
@@ -70,6 +67,7 @@
                               "rencanaMetodePemilihan": {
                                 "type": "string"
                               },
+                              "jenisPengadaan": {},
                               "createdAt": {
                                 "type": "string",
                                 "format": "date-time"
@@ -672,9 +670,6 @@
                               "type": "string"
                             },
                             "sumberDana": {},
-                            "jenisPengadaan": {
-                              "type": "string"
-                            },
                             "produkDalamNegeri": {
                               "type": "boolean"
                             },
@@ -696,6 +691,7 @@
                             "rencanaMetodePemilihan": {
                               "type": "string"
                             },
+                            "jenisPengadaan": {},
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -1187,9 +1183,6 @@
                         "type": "string"
                       },
                       "sumberDana": {},
-                      "jenisPengadaan": {
-                        "type": "string"
-                      },
                       "produkDalamNegeri": {
                         "type": "boolean"
                       },
@@ -1211,6 +1204,7 @@
                       "rencanaMetodePemilihan": {
                         "type": "string"
                       },
+                      "jenisPengadaan": {},
                       "createdAt": {
                         "type": "string",
                         "format": "date-time"
@@ -1294,9 +1288,6 @@
                               "type": "string"
                             },
                             "sumberDana": {},
-                            "jenisPengadaan": {
-                              "type": "string"
-                            },
                             "produkDalamNegeri": {
                               "type": "boolean"
                             },
@@ -1318,6 +1309,7 @@
                             "rencanaMetodePemilihan": {
                               "type": "string"
                             },
+                            "jenisPengadaan": {},
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -1829,9 +1821,6 @@
                               "type": "string"
                             },
                             "sumberDana": {},
-                            "jenisPengadaan": {
-                              "type": "string"
-                            },
                             "produkDalamNegeri": {
                               "type": "boolean"
                             },
@@ -1853,6 +1842,7 @@
                             "rencanaMetodePemilihan": {
                               "type": "string"
                             },
+                            "jenisPengadaan": {},
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -2355,9 +2345,6 @@
                         "type": "string"
                       },
                       "sumberDana": {},
-                      "jenisPengadaan": {
-                        "type": "string"
-                      },
                       "produkDalamNegeri": {
                         "type": "boolean"
                       },
@@ -2379,6 +2366,7 @@
                       "rencanaMetodePemilihan": {
                         "type": "string"
                       },
+                      "jenisPengadaan": {},
                       "createdAt": {
                         "type": "string",
                         "format": "date-time"

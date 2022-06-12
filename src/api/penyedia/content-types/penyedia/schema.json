@@ -42,9 +42,6 @@
     "sumberDana": {
       "type": "json"
     },
-    "jenisPengadaan": {
-      "type": "string"
-    },
     "produkDalamNegeri": {
       "type": "boolean"
     },
@@ -65,6 +62,9 @@
     },
     "rencanaMetodePemilihan": {
       "type": "string"
+    },
+    "jenisPengadaan": {
+      "type": "json"
     }
   }
 }

@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-06-02T15:53:25.398Z"
+    "x-generation-date": "2022-06-12T07:10:11.086Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -4348,9 +4348,6 @@
                                 "type": "string"
                               },
                               "sumberDana": {},
-                              "jenisPengadaan": {
-                                "type": "string"
-                              },
                               "produkDalamNegeri": {
                                 "type": "boolean"
                               },
@@ -4372,6 +4369,7 @@
                               "rencanaMetodePemilihan": {
                                 "type": "string"
                               },
+                              "jenisPengadaan": {},
                               "createdAt": {
                                 "type": "string",
                                 "format": "date-time"
@@ -4974,9 +4972,6 @@
                               "type": "string"
                             },
                             "sumberDana": {},
-                            "jenisPengadaan": {
-                              "type": "string"
-                            },
                             "produkDalamNegeri": {
                               "type": "boolean"
                             },
@@ -4998,6 +4993,7 @@
                             "rencanaMetodePemilihan": {
                               "type": "string"
                             },
+                            "jenisPengadaan": {},
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -5489,9 +5485,6 @@
                         "type": "string"
                       },
                       "sumberDana": {},
-                      "jenisPengadaan": {
-                        "type": "string"
-                      },
                       "produkDalamNegeri": {
                         "type": "boolean"
                       },
@@ -5513,6 +5506,7 @@
                       "rencanaMetodePemilihan": {
                         "type": "string"
                       },
+                      "jenisPengadaan": {},
                       "createdAt": {
                         "type": "string",
                         "format": "date-time"
@@ -5596,9 +5590,6 @@
                               "type": "string"
                             },
                             "sumberDana": {},
-                            "jenisPengadaan": {
-                              "type": "string"
-                            },
                             "produkDalamNegeri": {
                               "type": "boolean"
                             },
@@ -5620,6 +5611,7 @@
                             "rencanaMetodePemilihan": {
                               "type": "string"
                             },
+                            "jenisPengadaan": {},
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -6131,9 +6123,6 @@
                               "type": "string"
                             },
                             "sumberDana": {},
-                            "jenisPengadaan": {
-                              "type": "string"
-                            },
                             "produkDalamNegeri": {
                               "type": "boolean"
                             },
@@ -6155,6 +6144,7 @@
                             "rencanaMetodePemilihan": {
                               "type": "string"
                             },
+                            "jenisPengadaan": {},
                             "createdAt": {
                               "type": "string",
                               "format": "date-time"
@@ -6657,9 +6647,6 @@
                         "type": "string"
                       },
                       "sumberDana": {},
-                      "jenisPengadaan": {
-                        "type": "string"
-                      },
                       "produkDalamNegeri": {
                         "type": "boolean"
                       },
@@ -6681,6 +6668,7 @@
                       "rencanaMetodePemilihan": {
                         "type": "string"
                       },
+                      "jenisPengadaan": {},
                       "createdAt": {
                         "type": "string",
                         "format": "date-time"
