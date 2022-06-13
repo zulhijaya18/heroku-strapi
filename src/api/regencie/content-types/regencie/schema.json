@@ -4,7 +4,7 @@
   "info": {
     "singularName": "regencie",
     "pluralName": "regencies",
-    "displayName": "regencie",
+    "displayName": "Regencie",
     "description": ""
   },
   "options": {
@@ -12,7 +12,7 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "province_id": {
+    "provinceId": {
       "type": "string"
     },
     "name": {

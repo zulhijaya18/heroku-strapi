@@ -4,7 +4,7 @@
   "info": {
     "singularName": "village",
     "pluralName": "villages",
-    "displayName": "village",
+    "displayName": "Village",
     "description": ""
   },
   "options": {
@@ -12,7 +12,7 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "district_id": {
+    "districtId": {
       "type": "string"
     },
     "name": {

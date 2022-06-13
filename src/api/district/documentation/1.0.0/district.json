@@ -20,7 +20,7 @@
                           "attributes": {
                             "type": "object",
                             "properties": {
-                              "regency_id": {
+                              "regencyId": {
                                 "type": "string"
                               },
                               "name": {
@@ -31,10 +31,6 @@
                                 "format": "date-time"
                               },
                               "updatedAt": {
-                                "type": "string",
-                                "format": "date-time"
-                              },
-                              "publishedAt": {
                                 "type": "string",
                                 "format": "date-time"
                               },
@@ -606,7 +602,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "regency_id": {
+                            "regencyId": {
                               "type": "string"
                             },
                             "name": {
@@ -617,10 +613,6 @@
                               "format": "date-time"
                             },
                             "updatedAt": {
-                              "type": "string",
-                              "format": "date-time"
-                            },
-                            "publishedAt": {
                               "type": "string",
                               "format": "date-time"
                             },
@@ -1081,7 +1073,7 @@
                   "data": {
                     "type": "object",
                     "properties": {
-                      "regency_id": {
+                      "regencyId": {
                         "type": "string"
                       },
                       "name": {
@@ -1092,10 +1084,6 @@
                         "format": "date-time"
                       },
                       "updatedAt": {
-                        "type": "string",
-                        "format": "date-time"
-                      },
-                      "publishedAt": {
                         "type": "string",
                         "format": "date-time"
                       },
@@ -1148,7 +1136,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "regency_id": {
+                            "regencyId": {
                               "type": "string"
                             },
                             "name": {
@@ -1159,10 +1147,6 @@
                               "format": "date-time"
                             },
                             "updatedAt": {
-                              "type": "string",
-                              "format": "date-time"
-                            },
-                            "publishedAt": {
                               "type": "string",
                               "format": "date-time"
                             },
@@ -1643,7 +1627,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "regency_id": {
+                            "regencyId": {
                               "type": "string"
                             },
                             "name": {
@@ -1654,10 +1638,6 @@
                               "format": "date-time"
                             },
                             "updatedAt": {
-                              "type": "string",
-                              "format": "date-time"
-                            },
-                            "publishedAt": {
                               "type": "string",
                               "format": "date-time"
                             },
@@ -2129,7 +2109,7 @@
                   "data": {
                     "type": "object",
                     "properties": {
-                      "regency_id": {
+                      "regencyId": {
                         "type": "string"
                       },
                       "name": {
@@ -2140,10 +2120,6 @@
                         "format": "date-time"
                       },
                       "updatedAt": {
-                        "type": "string",
-                        "format": "date-time"
-                      },
-                      "publishedAt": {
                         "type": "string",
                         "format": "date-time"
                       },

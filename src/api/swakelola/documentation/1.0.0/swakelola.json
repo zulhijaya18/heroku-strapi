@@ -26,7 +26,7 @@
                               "skpd": {
                                 "type": "string"
                               },
-                              "tipeSwakelola": {
+                              "penyelenggaraSwakelola": {
                                 "type": "string"
                               },
                               "namaPaket": {
@@ -632,7 +632,7 @@
                             "skpd": {
                               "type": "string"
                             },
-                            "tipeSwakelola": {
+                            "penyelenggaraSwakelola": {
                               "type": "string"
                             },
                             "namaPaket": {
@@ -1127,7 +1127,7 @@
                       "skpd": {
                         "type": "string"
                       },
-                      "tipeSwakelola": {
+                      "penyelenggaraSwakelola": {
                         "type": "string"
                       },
                       "namaPaket": {
@@ -1214,7 +1214,7 @@
                             "skpd": {
                               "type": "string"
                             },
-                            "tipeSwakelola": {
+                            "penyelenggaraSwakelola": {
                               "type": "string"
                             },
                             "namaPaket": {
@@ -1729,7 +1729,7 @@
                             "skpd": {
                               "type": "string"
                             },
-                            "tipeSwakelola": {
+                            "penyelenggaraSwakelola": {
                               "type": "string"
                             },
                             "namaPaket": {
@@ -2235,7 +2235,7 @@
                       "skpd": {
                         "type": "string"
                       },
-                      "tipeSwakelola": {
+                      "penyelenggaraSwakelola": {
                         "type": "string"
                       },
                       "namaPaket": {

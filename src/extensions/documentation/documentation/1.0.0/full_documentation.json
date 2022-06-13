@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-06-13T10:00:51.983Z"
+    "x-generation-date": "2022-06-13T12:07:45.741Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -1356,7 +1356,7 @@
                           "attributes": {
                             "type": "object",
                             "properties": {
-                              "regency_id": {
+                              "regencyId": {
                                 "type": "string"
                               },
                               "name": {
@@ -1367,10 +1367,6 @@
                                 "format": "date-time"
                               },
                               "updatedAt": {
-                                "type": "string",
-                                "format": "date-time"
-                              },
-                              "publishedAt": {
                                 "type": "string",
                                 "format": "date-time"
                               },
@@ -1942,7 +1938,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "regency_id": {
+                            "regencyId": {
                               "type": "string"
                             },
                             "name": {
@@ -1953,10 +1949,6 @@
                               "format": "date-time"
                             },
                             "updatedAt": {
-                              "type": "string",
-                              "format": "date-time"
-                            },
-                            "publishedAt": {
                               "type": "string",
                               "format": "date-time"
                             },
@@ -2417,7 +2409,7 @@
                   "data": {
                     "type": "object",
                     "properties": {
-                      "regency_id": {
+                      "regencyId": {
                         "type": "string"
                       },
                       "name": {
@@ -2428,10 +2420,6 @@
                         "format": "date-time"
                       },
                       "updatedAt": {
-                        "type": "string",
-                        "format": "date-time"
-                      },
-                      "publishedAt": {
                         "type": "string",
                         "format": "date-time"
                       },
@@ -2484,7 +2472,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "regency_id": {
+                            "regencyId": {
                               "type": "string"
                             },
                             "name": {
@@ -2495,10 +2483,6 @@
                               "format": "date-time"
                             },
                             "updatedAt": {
-                              "type": "string",
-                              "format": "date-time"
-                            },
-                            "publishedAt": {
                               "type": "string",
                               "format": "date-time"
                             },
@@ -2979,7 +2963,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "regency_id": {
+                            "regencyId": {
                               "type": "string"
                             },
                             "name": {
@@ -2990,10 +2974,6 @@
                               "format": "date-time"
                             },
                             "updatedAt": {
-                              "type": "string",
-                              "format": "date-time"
-                            },
-                            "publishedAt": {
                               "type": "string",
                               "format": "date-time"
                             },
@@ -3465,7 +3445,7 @@
                   "data": {
                     "type": "object",
                     "properties": {
-                      "regency_id": {
+                      "regencyId": {
                         "type": "string"
                       },
                       "name": {
@@ -3476,10 +3456,6 @@
                         "format": "date-time"
                       },
                       "updatedAt": {
-                        "type": "string",
-                        "format": "date-time"
-                      },
-                      "publishedAt": {
                         "type": "string",
                         "format": "date-time"
                       },
@@ -9269,10 +9245,6 @@
                                 "type": "string",
                                 "format": "date-time"
                               },
-                              "publishedAt": {
-                                "type": "string",
-                                "format": "date-time"
-                              },
                               "createdBy": {
                                 "type": "object",
                                 "properties": {
@@ -9852,10 +9824,6 @@
                               "type": "string",
                               "format": "date-time"
                             },
-                            "publishedAt": {
-                              "type": "string",
-                              "format": "date-time"
-                            },
                             "createdBy": {
                               "type": "object",
                               "properties": {
@@ -10324,10 +10292,6 @@
                         "type": "string",
                         "format": "date-time"
                       },
-                      "publishedAt": {
-                        "type": "string",
-                        "format": "date-time"
-                      },
                       "createdBy": {
                         "oneOf": [
                           {
@@ -10385,10 +10349,6 @@
                               "format": "date-time"
                             },
                             "updatedAt": {
-                              "type": "string",
-                              "format": "date-time"
-                            },
-                            "publishedAt": {
                               "type": "string",
                               "format": "date-time"
                             },
@@ -10880,10 +10840,6 @@
                               "type": "string",
                               "format": "date-time"
                             },
-                            "publishedAt": {
-                              "type": "string",
-                              "format": "date-time"
-                            },
                             "createdBy": {
                               "type": "object",
                               "properties": {
@@ -11363,10 +11319,6 @@
                         "type": "string",
                         "format": "date-time"
                       },
-                      "publishedAt": {
-                        "type": "string",
-                        "format": "date-time"
-                      },
                       "createdBy": {
                         "oneOf": [
                           {
@@ -11594,7 +11546,7 @@
                           "attributes": {
                             "type": "object",
                             "properties": {
-                              "province_id": {
+                              "provinceId": {
                                 "type": "string"
                               },
                               "name": {
@@ -12176,7 +12128,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "province_id": {
+                            "provinceId": {
                               "type": "string"
                             },
                             "name": {
@@ -12647,7 +12599,7 @@
                   "data": {
                     "type": "object",
                     "properties": {
-                      "province_id": {
+                      "provinceId": {
                         "type": "string"
                       },
                       "name": {
@@ -12710,7 +12662,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "province_id": {
+                            "provinceId": {
                               "type": "string"
                             },
                             "name": {
@@ -13201,7 +13153,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "province_id": {
+                            "provinceId": {
                               "type": "string"
                             },
                             "name": {
@@ -13683,7 +13635,7 @@
                   "data": {
                     "type": "object",
                     "properties": {
-                      "province_id": {
+                      "provinceId": {
                         "type": "string"
                       },
                       "name": {
@@ -16860,7 +16812,7 @@
                               "skpd": {
                                 "type": "string"
                               },
-                              "tipeSwakelola": {
+                              "penyelenggaraSwakelola": {
                                 "type": "string"
                               },
                               "namaPaket": {
@@ -17466,7 +17418,7 @@
                             "skpd": {
                               "type": "string"
                             },
-                            "tipeSwakelola": {
+                            "penyelenggaraSwakelola": {
                               "type": "string"
                             },
                             "namaPaket": {
@@ -17961,7 +17913,7 @@
                       "skpd": {
                         "type": "string"
                       },
-                      "tipeSwakelola": {
+                      "penyelenggaraSwakelola": {
                         "type": "string"
                       },
                       "namaPaket": {
@@ -18048,7 +18000,7 @@
                             "skpd": {
                               "type": "string"
                             },
-                            "tipeSwakelola": {
+                            "penyelenggaraSwakelola": {
                               "type": "string"
                             },
                             "namaPaket": {
@@ -18563,7 +18515,7 @@
                             "skpd": {
                               "type": "string"
                             },
-                            "tipeSwakelola": {
+                            "penyelenggaraSwakelola": {
                               "type": "string"
                             },
                             "namaPaket": {
@@ -19069,7 +19021,7 @@
                       "skpd": {
                         "type": "string"
                       },
-                      "tipeSwakelola": {
+                      "penyelenggaraSwakelola": {
                         "type": "string"
                       },
                       "namaPaket": {
@@ -19328,7 +19280,7 @@
                           "attributes": {
                             "type": "object",
                             "properties": {
-                              "district_id": {
+                              "districtId": {
                                 "type": "string"
                               },
                               "name": {
@@ -19910,7 +19862,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "district_id": {
+                            "districtId": {
                               "type": "string"
                             },
                             "name": {
@@ -20381,7 +20333,7 @@
                   "data": {
                     "type": "object",
                     "properties": {
-                      "district_id": {
+                      "districtId": {
                         "type": "string"
                       },
                       "name": {
@@ -20444,7 +20396,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "district_id": {
+                            "districtId": {
                               "type": "string"
                             },
                             "name": {
@@ -20935,7 +20887,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "district_id": {
+                            "districtId": {
                               "type": "string"
                             },
                             "name": {
@@ -21417,7 +21369,7 @@
                   "data": {
                     "type": "object",
                     "properties": {
-                      "district_id": {
+                      "districtId": {
                         "type": "string"
                       },
                       "name": {

@@ -4,14 +4,15 @@
   "info": {
     "singularName": "district",
     "pluralName": "districts",
-    "displayName": "district"
+    "displayName": "District",
+    "description": ""
   },
   "options": {
-    "draftAndPublish": true
+    "draftAndPublish": false
   },
   "pluginOptions": {},
   "attributes": {
-    "regency_id": {
+    "regencyId": {
       "type": "string"
     },
     "name": {

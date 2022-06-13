@@ -20,7 +20,7 @@
                           "attributes": {
                             "type": "object",
                             "properties": {
-                              "district_id": {
+                              "districtId": {
                                 "type": "string"
                               },
                               "name": {
@@ -602,7 +602,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "district_id": {
+                            "districtId": {
                               "type": "string"
                             },
                             "name": {
@@ -1073,7 +1073,7 @@
                   "data": {
                     "type": "object",
                     "properties": {
-                      "district_id": {
+                      "districtId": {
                         "type": "string"
                       },
                       "name": {
@@ -1136,7 +1136,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "district_id": {
+                            "districtId": {
                               "type": "string"
                             },
                             "name": {
@@ -1627,7 +1627,7 @@
                         "attributes": {
                           "type": "object",
                           "properties": {
-                            "district_id": {
+                            "districtId": {
                               "type": "string"
                             },
                             "name": {
@@ -2109,7 +2109,7 @@
                   "data": {
                     "type": "object",
                     "properties": {
-                      "district_id": {
+                      "districtId": {
                         "type": "string"
                       },
                       "name": {
