@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "regencies",
+  "info": {
+    "singularName": "regencie",
+    "pluralName": "regencies",
+    "displayName": "regencie",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "province_id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

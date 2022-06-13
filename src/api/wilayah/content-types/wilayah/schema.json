@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "wilayahs",
+  "info": {
+    "singularName": "wilayah",
+    "pluralName": "wilayahs",
+    "displayName": "wilayah"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "provinsi": {
+      "type": "string"
+    }
+  }
+}
