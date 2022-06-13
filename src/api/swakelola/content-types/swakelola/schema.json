@@ -1,0 +1,45 @@
+{
+  "kind": "collectionType",
+  "collectionName": "swakelolas",
+  "info": {
+    "singularName": "swakelola",
+    "pluralName": "swakelolas",
+    "displayName": "swakelola"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tahunAnggaran": {
+      "type": "string"
+    },
+    "skpd": {
+      "type": "string"
+    },
+    "tipeSwakelola": {
+      "type": "string"
+    },
+    "namaPaket": {
+      "type": "string"
+    },
+    "lokasiPekerjaan": {
+      "type": "json"
+    },
+    "volumePekerjaan": {
+      "type": "string"
+    },
+    "uraianPekerjaan": {
+      "type": "string"
+    },
+    "praDipaDpa": {
+      "type": "string"
+    },
+    "sumberDana": {
+      "type": "json"
+    },
+    "totalPagu": {
+      "type": "string"
+    }
+  }
+}

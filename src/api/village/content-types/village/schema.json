@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "villages",
+  "info": {
+    "singularName": "village",
+    "pluralName": "villages",
+    "displayName": "village",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "district_id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

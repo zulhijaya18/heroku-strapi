@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "districts",
+  "info": {
+    "singularName": "district",
+    "pluralName": "districts",
+    "displayName": "district"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "regency_id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}
