@@ -1,5 +1,5 @@
 {
-  "/districts": {
+  "/account-types": {
     "get": {
       "responses": {
         "200": {
@@ -7,7 +7,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/DistrictListResponse"
+                "$ref": "#/components/schemas/AccountTypeListResponse"
               }
             }
           }
@@ -64,7 +64,7 @@
         }
       },
       "tags": [
-        "District"
+        "Account-type"
       ],
       "parameters": [
         {
@@ -148,7 +148,7 @@
           }
         }
       ],
-      "operationId": "get/districts"
+      "operationId": "get/account-types"
     },
     "post": {
       "responses": {
@@ -157,7 +157,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/DistrictResponse"
+                "$ref": "#/components/schemas/AccountTypeResponse"
               }
             }
           }
@@ -214,23 +214,23 @@
         }
       },
       "tags": [
-        "District"
+        "Account-type"
       ],
       "parameters": [],
-      "operationId": "post/districts",
+      "operationId": "post/account-types",
       "requestBody": {
         "required": true,
         "content": {
           "application/json": {
             "schema": {
-              "$ref": "#/components/schemas/DistrictRequest"
+              "$ref": "#/components/schemas/AccountTypeRequest"
             }
           }
         }
       }
     }
   },
-  "/districts/{id}": {
+  "/account-types/{id}": {
     "get": {
       "responses": {
         "200": {
@@ -238,7 +238,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/DistrictResponse"
+                "$ref": "#/components/schemas/AccountTypeResponse"
               }
             }
           }
@@ -295,7 +295,7 @@
         }
       },
       "tags": [
-        "District"
+        "Account-type"
       ],
       "parameters": [
         {
@@ -309,7 +309,7 @@
           }
         }
       ],
-      "operationId": "get/districts/{id}"
+      "operationId": "get/account-types/{id}"
     },
     "put": {
       "responses": {
@@ -318,7 +318,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/DistrictResponse"
+                "$ref": "#/components/schemas/AccountTypeResponse"
               }
             }
           }
@@ -375,7 +375,7 @@
         }
       },
       "tags": [
-        "District"
+        "Account-type"
       ],
       "parameters": [
         {
@@ -389,13 +389,13 @@
           }
         }
       ],
-      "operationId": "put/districts/{id}",
+      "operationId": "put/account-types/{id}",
       "requestBody": {
         "required": true,
         "content": {
           "application/json": {
             "schema": {
-              "$ref": "#/components/schemas/DistrictRequest"
+              "$ref": "#/components/schemas/AccountTypeRequest"
             }
           }
         }
@@ -466,7 +466,7 @@
         }
       },
       "tags": [
-        "District"
+        "Account-type"
       ],
       "parameters": [
         {
@@ -480,7 +480,7 @@
           }
         }
       ],
-      "operationId": "delete/districts/{id}"
+      "operationId": "delete/account-types/{id}"
     }
   }
 }
