@@ -24,7 +24,7 @@
     "uuid": "dbbbfe5b-ef7a-4e1c-9274-4dedf5e7005c"
   },
   "engines": {
-    "node": ">=12.x.x <=16.x.x",
+    "node": ">=14.x.x <=16.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
