@@ -4,7 +4,7 @@
   "info": {
     "singularName": "penyedia",
     "pluralName": "penyedias",
-    "displayName": "Penyedia",
+    "displayName": "Paket",
     "description": ""
   },
   "options": {
@@ -65,6 +65,11 @@
     },
     "jenisPengadaan": {
       "type": "json"
+    },
+    "user": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "plugin::users-permissions.user"
     }
   }
 }
