@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_sekolah_sekolahs",
+  "info": {
+    "displayName": "Sekolah",
+    "icon": "archway",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "nama": {
+      "type": "string"
+    },
+    "kabupaten": {
+      "type": "string"
+    }
+  }
+}

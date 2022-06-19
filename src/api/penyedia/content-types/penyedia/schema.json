@@ -74,7 +74,8 @@
     "sekolah": {
       "type": "relation",
       "relation": "oneToOne",
-      "target": "api::sekolah.sekolah"
+      "target": "api::sekolah.sekolah",
+      "inversedBy": "paket"
     }
   }
 }

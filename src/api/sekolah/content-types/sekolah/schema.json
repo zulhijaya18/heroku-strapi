@@ -20,6 +20,17 @@
       "relation": "manyToOne",
       "target": "api::kabupaten.kabupaten",
       "inversedBy": "sekolahs"
+    },
+    "paket": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::penyedia.penyedia",
+      "mappedBy": "sekolah"
+    },
+    "seccomp": {
+      "type": "component",
+      "repeatable": false,
+      "component": "sekolah.sekolah"
     }
   }
 }
