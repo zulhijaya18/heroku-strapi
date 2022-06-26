@@ -12,9 +12,6 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "skpd": {
-      "type": "string"
-    },
     "namaPaket": {
       "type": "string"
     },
@@ -74,8 +71,10 @@
     "sekolah": {
       "type": "relation",
       "relation": "oneToOne",
-      "target": "api::sekolah.sekolah",
-      "inversedBy": "paket"
+      "target": "api::sekolah.sekolah"
+    },
+    "namaDokumen": {
+      "type": "string"
     }
   }
 }
