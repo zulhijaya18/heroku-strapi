@@ -20,11 +20,6 @@
       "relation": "manyToOne",
       "target": "api::kabupaten.kabupaten",
       "inversedBy": "sekolahs"
-    },
-    "seccomp": {
-      "type": "component",
-      "repeatable": false,
-      "component": "sekolah.sekolah"
     }
   }
 }

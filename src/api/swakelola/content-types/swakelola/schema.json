@@ -4,21 +4,15 @@
   "info": {
     "singularName": "swakelola",
     "pluralName": "swakelolas",
-    "displayName": "Swakelola",
+    "displayName": "Pemeliharaan",
     "description": ""
   },
   "options": {
-    "draftAndPublish": true
+    "draftAndPublish": false
   },
   "pluginOptions": {},
   "attributes": {
     "tahunAnggaran": {
-      "type": "string"
-    },
-    "skpd": {
-      "type": "string"
-    },
-    "penyelenggaraSwakelola": {
       "type": "string"
     },
     "namaPaket": {
@@ -33,13 +27,47 @@
     "uraianPekerjaan": {
       "type": "string"
     },
-    "praDipaDpa": {
-      "type": "string"
-    },
-    "sumberDana": {
+    "sumberPembelian": {
       "type": "json"
     },
     "totalPagu": {
+      "type": "string"
+    },
+    "jenisPengadaan": {
+      "type": "json"
+    },
+    "user": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "plugin::users-permissions.user"
+    },
+    "sekolah": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::sekolah.sekolah"
+    },
+    "dokumentasi": {
+      "type": "string"
+    },
+    "masaManfaat": {
+      "type": "string"
+    },
+    "spesifikasiPekerjaan": {
+      "type": "string"
+    },
+    "asalDana": {
+      "type": "string"
+    },
+    "kondisiSaatIni": {
+      "type": "string"
+    },
+    "asalUsul": {
+      "type": "string"
+    },
+    "namaDokumen": {
+      "type": "string"
+    },
+    "pagu": {
       "type": "string"
     }
   }

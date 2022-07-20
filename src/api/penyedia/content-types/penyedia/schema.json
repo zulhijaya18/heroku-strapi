@@ -75,6 +75,12 @@
     },
     "namaDokumen": {
       "type": "string"
+    },
+    "asalDana": {
+      "type": "string"
+    },
+    "pagu": {
+      "type": "string"
     }
   }
 }
