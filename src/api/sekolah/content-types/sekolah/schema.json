@@ -14,12 +14,6 @@
   "attributes": {
     "namaSekolah": {
       "type": "string"
-    },
-    "kabupaten": {
-      "type": "relation",
-      "relation": "manyToOne",
-      "target": "api::kabupaten.kabupaten",
-      "inversedBy": "sekolahs"
     }
   }
 }
