@@ -14,6 +14,36 @@
   "attributes": {
     "namaSekolah": {
       "type": "string"
+    },
+    "provinsi": {
+      "type": "string"
+    },
+    "kabupatenKota": {
+      "type": "string"
+    },
+    "kecamatan": {
+      "type": "string"
+    },
+    "kelurahan": {
+      "type": "string"
+    },
+    "nspn": {
+      "type": "string"
+    },
+    "alamat": {
+      "type": "string"
+    },
+    "kodePos": {
+      "type": "string"
+    },
+    "telepon": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "website": {
+      "type": "string"
     }
   }
 }

@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-07-20T18:11:21.421Z"
+    "x-generation-date": "2022-07-20T18:34:24.400Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -2127,6 +2127,36 @@
                                             "namaSekolah": {
                                               "type": "string"
                                             },
+                                            "provinsi": {
+                                              "type": "string"
+                                            },
+                                            "kabupatenKota": {
+                                              "type": "string"
+                                            },
+                                            "kecamatan": {
+                                              "type": "string"
+                                            },
+                                            "kelurahan": {
+                                              "type": "string"
+                                            },
+                                            "nspn": {
+                                              "type": "string"
+                                            },
+                                            "alamat": {
+                                              "type": "string"
+                                            },
+                                            "kodePos": {
+                                              "type": "string"
+                                            },
+                                            "telepon": {
+                                              "type": "string"
+                                            },
+                                            "email": {
+                                              "type": "string"
+                                            },
+                                            "website": {
+                                              "type": "string"
+                                            },
                                             "createdAt": {
                                               "type": "string",
                                               "format": "date-time"
@@ -2913,6 +2943,36 @@
                                           "namaSekolah": {
                                             "type": "string"
                                           },
+                                          "provinsi": {
+                                            "type": "string"
+                                          },
+                                          "kabupatenKota": {
+                                            "type": "string"
+                                          },
+                                          "kecamatan": {
+                                            "type": "string"
+                                          },
+                                          "kelurahan": {
+                                            "type": "string"
+                                          },
+                                          "nspn": {
+                                            "type": "string"
+                                          },
+                                          "alamat": {
+                                            "type": "string"
+                                          },
+                                          "kodePos": {
+                                            "type": "string"
+                                          },
+                                          "telepon": {
+                                            "type": "string"
+                                          },
+                                          "email": {
+                                            "type": "string"
+                                          },
+                                          "website": {
+                                            "type": "string"
+                                          },
                                           "createdAt": {
                                             "type": "string",
                                             "format": "date-time"
@@ -3098,6 +3158,36 @@
             "properties": {
               "namaSekolah": {
                 "type": "string"
+              },
+              "provinsi": {
+                "type": "string"
+              },
+              "kabupatenKota": {
+                "type": "string"
+              },
+              "kecamatan": {
+                "type": "string"
+              },
+              "kelurahan": {
+                "type": "string"
+              },
+              "nspn": {
+                "type": "string"
+              },
+              "alamat": {
+                "type": "string"
+              },
+              "kodePos": {
+                "type": "string"
+              },
+              "telepon": {
+                "type": "string"
+              },
+              "email": {
+                "type": "string"
+              },
+              "website": {
+                "type": "string"
               }
             }
           }
@@ -3118,6 +3208,36 @@
                   "type": "object",
                   "properties": {
                     "namaSekolah": {
+                      "type": "string"
+                    },
+                    "provinsi": {
+                      "type": "string"
+                    },
+                    "kabupatenKota": {
+                      "type": "string"
+                    },
+                    "kecamatan": {
+                      "type": "string"
+                    },
+                    "kelurahan": {
+                      "type": "string"
+                    },
+                    "nspn": {
+                      "type": "string"
+                    },
+                    "alamat": {
+                      "type": "string"
+                    },
+                    "kodePos": {
+                      "type": "string"
+                    },
+                    "telepon": {
+                      "type": "string"
+                    },
+                    "email": {
+                      "type": "string"
+                    },
+                    "website": {
                       "type": "string"
                     },
                     "createdAt": {
@@ -3456,6 +3576,36 @@
                 "type": "object",
                 "properties": {
                   "namaSekolah": {
+                    "type": "string"
+                  },
+                  "provinsi": {
+                    "type": "string"
+                  },
+                  "kabupatenKota": {
+                    "type": "string"
+                  },
+                  "kecamatan": {
+                    "type": "string"
+                  },
+                  "kelurahan": {
+                    "type": "string"
+                  },
+                  "nspn": {
+                    "type": "string"
+                  },
+                  "alamat": {
+                    "type": "string"
+                  },
+                  "kodePos": {
+                    "type": "string"
+                  },
+                  "telepon": {
+                    "type": "string"
+                  },
+                  "email": {
+                    "type": "string"
+                  },
+                  "website": {
                     "type": "string"
                   },
                   "createdAt": {
@@ -4405,6 +4555,36 @@
                                             "namaSekolah": {
                                               "type": "string"
                                             },
+                                            "provinsi": {
+                                              "type": "string"
+                                            },
+                                            "kabupatenKota": {
+                                              "type": "string"
+                                            },
+                                            "kecamatan": {
+                                              "type": "string"
+                                            },
+                                            "kelurahan": {
+                                              "type": "string"
+                                            },
+                                            "nspn": {
+                                              "type": "string"
+                                            },
+                                            "alamat": {
+                                              "type": "string"
+                                            },
+                                            "kodePos": {
+                                              "type": "string"
+                                            },
+                                            "telepon": {
+                                              "type": "string"
+                                            },
+                                            "email": {
+                                              "type": "string"
+                                            },
+                                            "website": {
+                                              "type": "string"
+                                            },
                                             "createdAt": {
                                               "type": "string",
                                               "format": "date-time"
@@ -5177,6 +5357,36 @@
                                         "type": "object",
                                         "properties": {
                                           "namaSekolah": {
+                                            "type": "string"
+                                          },
+                                          "provinsi": {
+                                            "type": "string"
+                                          },
+                                          "kabupatenKota": {
+                                            "type": "string"
+                                          },
+                                          "kecamatan": {
+                                            "type": "string"
+                                          },
+                                          "kelurahan": {
+                                            "type": "string"
+                                          },
+                                          "nspn": {
+                                            "type": "string"
+                                          },
+                                          "alamat": {
+                                            "type": "string"
+                                          },
+                                          "kodePos": {
+                                            "type": "string"
+                                          },
+                                          "telepon": {
+                                            "type": "string"
+                                          },
+                                          "email": {
+                                            "type": "string"
+                                          },
+                                          "website": {
                                             "type": "string"
                                           },
                                           "createdAt": {
@@ -6743,6 +6953,36 @@
                                                           "namaSekolah": {
                                                             "type": "string"
                                                           },
+                                                          "provinsi": {
+                                                            "type": "string"
+                                                          },
+                                                          "kabupatenKota": {
+                                                            "type": "string"
+                                                          },
+                                                          "kecamatan": {
+                                                            "type": "string"
+                                                          },
+                                                          "kelurahan": {
+                                                            "type": "string"
+                                                          },
+                                                          "nspn": {
+                                                            "type": "string"
+                                                          },
+                                                          "alamat": {
+                                                            "type": "string"
+                                                          },
+                                                          "kodePos": {
+                                                            "type": "string"
+                                                          },
+                                                          "telepon": {
+                                                            "type": "string"
+                                                          },
+                                                          "email": {
+                                                            "type": "string"
+                                                          },
+                                                          "website": {
+                                                            "type": "string"
+                                                          },
                                                           "createdAt": {
                                                             "type": "string",
                                                             "format": "date-time"
@@ -7461,6 +7701,36 @@
                                                         "namaSekolah": {
                                                           "type": "string"
                                                         },
+                                                        "provinsi": {
+                                                          "type": "string"
+                                                        },
+                                                        "kabupatenKota": {
+                                                          "type": "string"
+                                                        },
+                                                        "kecamatan": {
+                                                          "type": "string"
+                                                        },
+                                                        "kelurahan": {
+                                                          "type": "string"
+                                                        },
+                                                        "nspn": {
+                                                          "type": "string"
+                                                        },
+                                                        "alamat": {
+                                                          "type": "string"
+                                                        },
+                                                        "kodePos": {
+                                                          "type": "string"
+                                                        },
+                                                        "telepon": {
+                                                          "type": "string"
+                                                        },
+                                                        "email": {
+                                                          "type": "string"
+                                                        },
+                                                        "website": {
+                                                          "type": "string"
+                                                        },
                                                         "createdAt": {
                                                           "type": "string",
                                                           "format": "date-time"
@@ -8171,6 +8441,36 @@
                                                                       "type": "object",
                                                                       "properties": {
                                                                         "namaSekolah": {
+                                                                          "type": "string"
+                                                                        },
+                                                                        "provinsi": {
+                                                                          "type": "string"
+                                                                        },
+                                                                        "kabupatenKota": {
+                                                                          "type": "string"
+                                                                        },
+                                                                        "kecamatan": {
+                                                                          "type": "string"
+                                                                        },
+                                                                        "kelurahan": {
+                                                                          "type": "string"
+                                                                        },
+                                                                        "nspn": {
+                                                                          "type": "string"
+                                                                        },
+                                                                        "alamat": {
+                                                                          "type": "string"
+                                                                        },
+                                                                        "kodePos": {
+                                                                          "type": "string"
+                                                                        },
+                                                                        "telepon": {
+                                                                          "type": "string"
+                                                                        },
+                                                                        "email": {
+                                                                          "type": "string"
+                                                                        },
+                                                                        "website": {
                                                                           "type": "string"
                                                                         },
                                                                         "createdAt": {
@@ -8918,6 +9218,36 @@
                                                                     "type": "object",
                                                                     "properties": {
                                                                       "namaSekolah": {
+                                                                        "type": "string"
+                                                                      },
+                                                                      "provinsi": {
+                                                                        "type": "string"
+                                                                      },
+                                                                      "kabupatenKota": {
+                                                                        "type": "string"
+                                                                      },
+                                                                      "kecamatan": {
+                                                                        "type": "string"
+                                                                      },
+                                                                      "kelurahan": {
+                                                                        "type": "string"
+                                                                      },
+                                                                      "nspn": {
+                                                                        "type": "string"
+                                                                      },
+                                                                      "alamat": {
+                                                                        "type": "string"
+                                                                      },
+                                                                      "kodePos": {
+                                                                        "type": "string"
+                                                                      },
+                                                                      "telepon": {
+                                                                        "type": "string"
+                                                                      },
+                                                                      "email": {
+                                                                        "type": "string"
+                                                                      },
+                                                                      "website": {
                                                                         "type": "string"
                                                                       },
                                                                       "createdAt": {
@@ -9784,6 +10114,36 @@
                                                           "namaSekolah": {
                                                             "type": "string"
                                                           },
+                                                          "provinsi": {
+                                                            "type": "string"
+                                                          },
+                                                          "kabupatenKota": {
+                                                            "type": "string"
+                                                          },
+                                                          "kecamatan": {
+                                                            "type": "string"
+                                                          },
+                                                          "kelurahan": {
+                                                            "type": "string"
+                                                          },
+                                                          "nspn": {
+                                                            "type": "string"
+                                                          },
+                                                          "alamat": {
+                                                            "type": "string"
+                                                          },
+                                                          "kodePos": {
+                                                            "type": "string"
+                                                          },
+                                                          "telepon": {
+                                                            "type": "string"
+                                                          },
+                                                          "email": {
+                                                            "type": "string"
+                                                          },
+                                                          "website": {
+                                                            "type": "string"
+                                                          },
                                                           "createdAt": {
                                                             "type": "string",
                                                             "format": "date-time"
@@ -10553,6 +10913,36 @@
                                                       "type": "object",
                                                       "properties": {
                                                         "namaSekolah": {
+                                                          "type": "string"
+                                                        },
+                                                        "provinsi": {
+                                                          "type": "string"
+                                                        },
+                                                        "kabupatenKota": {
+                                                          "type": "string"
+                                                        },
+                                                        "kecamatan": {
+                                                          "type": "string"
+                                                        },
+                                                        "kelurahan": {
+                                                          "type": "string"
+                                                        },
+                                                        "nspn": {
+                                                          "type": "string"
+                                                        },
+                                                        "alamat": {
+                                                          "type": "string"
+                                                        },
+                                                        "kodePos": {
+                                                          "type": "string"
+                                                        },
+                                                        "telepon": {
+                                                          "type": "string"
+                                                        },
+                                                        "email": {
+                                                          "type": "string"
+                                                        },
+                                                        "website": {
                                                           "type": "string"
                                                         },
                                                         "createdAt": {
