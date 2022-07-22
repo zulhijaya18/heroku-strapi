@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-07-20T18:34:24.400Z"
+    "x-generation-date": "2022-07-22T18:32:34.441Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -1528,6 +1528,15 @@
               },
               "pagu": {
                 "type": "string"
+              },
+              "jenisBelanja": {
+                "type": "string"
+              },
+              "provinsi": {
+                "type": "string"
+              },
+              "kabupatenKota": {
+                "type": "string"
               }
             }
           }
@@ -2277,6 +2286,15 @@
                       "type": "string"
                     },
                     "pagu": {
+                      "type": "string"
+                    },
+                    "jenisBelanja": {
+                      "type": "string"
+                    },
+                    "provinsi": {
+                      "type": "string"
+                    },
+                    "kabupatenKota": {
                       "type": "string"
                     },
                     "createdAt": {
@@ -3093,6 +3111,15 @@
                     "type": "string"
                   },
                   "pagu": {
+                    "type": "string"
+                  },
+                  "jenisBelanja": {
+                    "type": "string"
+                  },
+                  "provinsi": {
+                    "type": "string"
+                  },
+                  "kabupatenKota": {
                     "type": "string"
                   },
                   "createdAt": {
@@ -3983,6 +4010,15 @@
               },
               "pagu": {
                 "type": "string"
+              },
+              "jenisBelanja": {
+                "type": "string"
+              },
+              "provinsi": {
+                "type": "string"
+              },
+              "kabupatenKota": {
+                "type": "string"
               }
             }
           }
@@ -4720,6 +4756,15 @@
                       "type": "string"
                     },
                     "pagu": {
+                      "type": "string"
+                    },
+                    "jenisBelanja": {
+                      "type": "string"
+                    },
+                    "provinsi": {
+                      "type": "string"
+                    },
+                    "kabupatenKota": {
                       "type": "string"
                     },
                     "createdAt": {
@@ -5524,6 +5569,15 @@
                     "type": "string"
                   },
                   "pagu": {
+                    "type": "string"
+                  },
+                  "jenisBelanja": {
+                    "type": "string"
+                  },
+                  "provinsi": {
+                    "type": "string"
+                  },
+                  "kabupatenKota": {
                     "type": "string"
                   },
                   "createdAt": {

@@ -81,6 +81,15 @@
     },
     "pagu": {
       "type": "string"
+    },
+    "jenisBelanja": {
+      "type": "string"
+    },
+    "provinsi": {
+      "type": "string"
+    },
+    "kabupatenKota": {
+      "type": "string"
     }
   }
 }
