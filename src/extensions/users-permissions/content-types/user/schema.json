@@ -72,6 +72,9 @@
       "type": "relation",
       "relation": "oneToOne",
       "target": "api::sekolah.sekolah"
+    },
+    "image": {
+      "type": "string"
     }
   }
 }
