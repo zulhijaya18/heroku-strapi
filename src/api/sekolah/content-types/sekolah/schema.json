@@ -44,6 +44,12 @@
     },
     "website": {
       "type": "string"
+    },
+    "namaKepalaSekolah": {
+      "type": "string"
+    },
+    "nipKepalaSekolah": {
+      "type": "string"
     }
   }
 }
