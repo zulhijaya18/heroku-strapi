@@ -50,6 +50,9 @@
     },
     "nipKepalaSekolah": {
       "type": "string"
+    },
+    "logoSekolah": {
+      "type": "string"
     }
   }
 }

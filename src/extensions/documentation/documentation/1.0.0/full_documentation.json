@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-10-21T15:12:45.655Z"
+    "x-generation-date": "2022-10-28T13:05:20.563Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -2855,6 +2855,9 @@
                                             "nipKepalaSekolah": {
                                               "type": "string"
                                             },
+                                            "logoSekolah": {
+                                              "type": "string"
+                                            },
                                             "createdAt": {
                                               "type": "string",
                                               "format": "date-time"
@@ -3689,6 +3692,9 @@
                                           "nipKepalaSekolah": {
                                             "type": "string"
                                           },
+                                          "logoSekolah": {
+                                            "type": "string"
+                                          },
                                           "createdAt": {
                                             "type": "string",
                                             "format": "date-time"
@@ -3922,6 +3928,9 @@
               },
               "nipKepalaSekolah": {
                 "type": "string"
+              },
+              "logoSekolah": {
+                "type": "string"
               }
             }
           }
@@ -3978,6 +3987,9 @@
                       "type": "string"
                     },
                     "nipKepalaSekolah": {
+                      "type": "string"
+                    },
+                    "logoSekolah": {
                       "type": "string"
                     },
                     "createdAt": {
@@ -4352,6 +4364,9 @@
                     "type": "string"
                   },
                   "nipKepalaSekolah": {
+                    "type": "string"
+                  },
+                  "logoSekolah": {
                     "type": "string"
                   },
                   "createdAt": {
@@ -5346,6 +5361,9 @@
                                             "nipKepalaSekolah": {
                                               "type": "string"
                                             },
+                                            "logoSekolah": {
+                                              "type": "string"
+                                            },
                                             "createdAt": {
                                               "type": "string",
                                               "format": "date-time"
@@ -6166,6 +6184,9 @@
                                             "type": "string"
                                           },
                                           "nipKepalaSekolah": {
+                                            "type": "string"
+                                          },
+                                          "logoSekolah": {
                                             "type": "string"
                                           },
                                           "createdAt": {
@@ -7780,6 +7801,9 @@
                                                           "nipKepalaSekolah": {
                                                             "type": "string"
                                                           },
+                                                          "logoSekolah": {
+                                                            "type": "string"
+                                                          },
                                                           "createdAt": {
                                                             "type": "string",
                                                             "format": "date-time"
@@ -8537,6 +8561,9 @@
                                                         "nipKepalaSekolah": {
                                                           "type": "string"
                                                         },
+                                                        "logoSekolah": {
+                                                          "type": "string"
+                                                        },
                                                         "createdAt": {
                                                           "type": "string",
                                                           "format": "date-time"
@@ -9286,6 +9313,9 @@
                                                                           "type": "string"
                                                                         },
                                                                         "nipKepalaSekolah": {
+                                                                          "type": "string"
+                                                                        },
+                                                                        "logoSekolah": {
                                                                           "type": "string"
                                                                         },
                                                                         "createdAt": {
@@ -10072,6 +10102,9 @@
                                                                         "type": "string"
                                                                       },
                                                                       "nipKepalaSekolah": {
+                                                                        "type": "string"
+                                                                      },
+                                                                      "logoSekolah": {
                                                                         "type": "string"
                                                                       },
                                                                       "createdAt": {
@@ -10980,6 +11013,9 @@
                                                           "nipKepalaSekolah": {
                                                             "type": "string"
                                                           },
+                                                          "logoSekolah": {
+                                                            "type": "string"
+                                                          },
                                                           "createdAt": {
                                                             "type": "string",
                                                             "format": "date-time"
@@ -11791,6 +11827,9 @@
                                                           "type": "string"
                                                         },
                                                         "nipKepalaSekolah": {
+                                                          "type": "string"
+                                                        },
+                                                        "logoSekolah": {
                                                           "type": "string"
                                                         },
                                                         "createdAt": {
