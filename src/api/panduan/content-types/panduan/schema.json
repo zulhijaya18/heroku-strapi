@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "panduans",
+  "info": {
+    "singularName": "panduan",
+    "pluralName": "panduans",
+    "displayName": "Panduan"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "judul": {
+      "type": "string"
+    },
+    "namaFile": {
+      "type": "string"
+    }
+  }
+}
